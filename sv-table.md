@@ -1,0 +1,5 @@
+|    | Sample   | Superpopulation   | Sex    | CYP2D6                                                                                                     |
+|----|----------|-------------------|--------|------------------------------------------------------------------------------------------------------------|
+|  0 | NA06984  | EUR               | male   | [Tandem1A](https://raw.githubusercontent.com/sbslee/1kgp-pgx-paper/main/plot/CYP2D6/b01/NA06984_NYGC.png)  |
+|  1 | NA06985  | EUR               | female | [WholeDel1](https://raw.githubusercontent.com/sbslee/1kgp-pgx-paper/main/plot/CYP2D6/b01/NA06985_NYGC.png) |
+|  2 | NA06986  | EUR               | male   | [Normal](https://raw.githubusercontent.com/sbslee/1kgp-pgx-paper/main/plot/CYP2D6/b01/NA06986_NYGC.png)    |
