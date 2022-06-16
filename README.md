@@ -9,7 +9,7 @@ To obtain individual SV calls made by PyPGx, and corresponding copy number profi
 4. [CYP2E1](sv-tables/CYP2E1.md)
 5. [CYP4F2](sv-tables/CYP4F2.md)
 6. [G6PD](sv-tables/G6PD.md)
-7. [GSTM1](sv-tables/CYP2GSTM1A6.md)
+7. [GSTM1](sv-tables/GSTM1.md)
 8. [SLC22A2](sv-tables/SLC22A2.md)
 9. [SULT1A1](sv-tables/SULT1A1.md)
 10. [UGT1A4](sv-tables/UGT1A4.md)
