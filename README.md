@@ -1,6 +1,8 @@
 # 1kgp-pgx-paper
 Data and code repository for the 1KGP PGx paper
 
+Carissa A. Sherman, Katrina G. Claw, and Seung-been Lee. Pharmacogenetic analysis of structural variation in the 1000 genomes project using whole genome sequences. Scientific Reports. Published: 2024-10-01. DOI: https://doi.org/10.1038/s41598-024-73748-3.
+
 To obtain individual SV calls made by PyPGx, and corresponding copy number profiles and allele fraction profiles, please visit the `sv-tables` directory or select one of the following genes:
 
 1. [CYP2A6](sv-tables/CYP2A6.md)
